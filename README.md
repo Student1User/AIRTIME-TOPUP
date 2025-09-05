@@ -6,7 +6,7 @@ I’ll assume your project is called **Airtime Top-up System (Daraja API + PHP +
 
 # 📱 Airtime Top-up System (Daraja API + PHP + XAMPP)
 
-![M-Pesa Logo](<img width="1024" height="328" alt="image" src="https://github.com/user-attachments/assets/97656a4a-bc94-4d2b-98ee-b62094a5a2bf" />)
+![M-Pesa Logo](https://github.com/user-attachments/assets/97656a4a-bc94-4d2b-98ee-b62094a5a2bf)
 
 A simple **M-Pesa Airtime Top-up System** built with **PHP** and the **Daraja API**.
 Users can:
