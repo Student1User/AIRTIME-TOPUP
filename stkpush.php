@@ -6,9 +6,9 @@ $phone = $_POST['phone'];
 $amount = $_POST['amount'];
 
 // Safaricom API Credentials
-$consumerKey = "Hcm6h6KbdglrIpI0hiQPHPFpRuKYxumGbBOdjirGjuYOCUAu";
-$consumerSecret = "4S1xoOyKabw7IUhp5cpAj1W2Dj5Dee3obWkN2yqOdxPcDCwo3oBG5WGDTPYTharP";
-$BusinessShortCode = "174379"; // Test PayBill
+$consumerKey = "YOUR CUSTOMER KEY HERE";
+$consumerSecret = "YOUR SCRET KEY HERE";
+$BusinessShortCode = "PATBILL HERE"; // Test PayBill
 $Passkey = "YOUR_PASSKEY";
 
 // Get access token
