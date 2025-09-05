@@ -1,9 +1,3 @@
-Perfect 👌 thanks for sharing your project structure! Since you want a **lively, interactive, and detailed README.md** with icons, images, and clear explanations, here’s one you can use.
-
-I’ll assume your project is called **Airtime Top-up System (Daraja API + PHP + XAMPP)**.
-
----
-
 # 📱 Airtime Top-up System (Daraja API + PHP + XAMPP)
 
 ![M-Pesa Logo](https://github.com/user-attachments/assets/97656a4a-bc94-4d2b-98ee-b62094a5a2bf)
