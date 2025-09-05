@@ -159,5 +159,3 @@ This project is licensed under the **MIT License** – free to use and modify.
 ✨ Pro Tip: For production, deploy on **Apache/Nginx server** and secure your Daraja API credentials.
 
 ---
-
-👉 Do you want me to also create a **GIF animation demo** (fake preview showing confetti + STK push flow) so the README looks even more interactive?
