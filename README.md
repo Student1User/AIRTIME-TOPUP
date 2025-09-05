@@ -151,7 +151,7 @@ Styled table of all payments.
 
 ## 👨‍💻 Author
 
-Made with ❤️ by **\[Your Name]**
+Made with ❤️ by **\Emmanuel M Jesse**
 🌍 Kenya | 💡 Open to collaboration
 
 ---
